@@ -1,10 +1,26 @@
-html { height:160%;
+html { 
+	height:160%;
 }
 
-body { font-family: Georgia, serif;
-font-size: 100% ;
-background-image: linear-gradient(to bottom right, #fae6ee, #ebc0ca, #ff6689, #86e3f0, #c0f5fc);
+body { 
+	font-family: Georgia, serif;
+	font-size: 100% ;
+	background-image: linear-gradient(to bottom right, #fae6ee, #ebc0ca, #ff6689, #86e3f0, #c0f5fc);
 } 
 
-footer { font-size: 50%;
+nav {
+	background-image: linear-gradient(to bottom right, #ffb730, #fff82e, #c1ff6b, #ffffff);
+	color: #000000;
+	list-style: none;
+	text-align: right;
+	padding: 20px 0 20px 0;
+}
+
+nav > li {
+	display: inline-block;
+	padding: 0 25px 0 25px;
+}
+
+footer { 
+	font-size: 50%;
 }
