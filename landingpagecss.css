@@ -5,11 +5,10 @@ html {
 body { 
 	font-family: Georgia, serif;
 	font-size: 100% ;
-	background-image: linear-gradient(to bottom right, #fae6ee, #ebc0ca, #ff6689, #86e3f0, #c0f5fc);
+	background-image: linear-gradient(to bottom right, #ffd1f8, #ebc0ca, #ff6689, #86e3f0, #c0f5fc);
 } 
 
 nav {
-	background-image: linear-gradient(to bottom right, #fae6ee, #ebc0ca, #ff6689, #86e3f0, #c0f5fc);
 	color: #000000;
 	list-style: none;
 	text-align: right;
