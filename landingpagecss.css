@@ -18,7 +18,7 @@ nav {
 }
 
 #logo {
-	text-align: left;
+	float: left;
 }
 
 li {
