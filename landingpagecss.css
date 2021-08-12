@@ -9,7 +9,6 @@ body {
 } 
 
 nav {
-	background-color: linear-gradient(to bottom right, #ffb730, #fff82e, #c1ff6b, #ffffff);
 	color: #000000;
 	list-style: none;
 	text-align: right;
@@ -17,14 +16,14 @@ nav {
 	display: inline;
 }
 
-#logo {
-	float: left;
-	
-}
-
 li {
 	display: inline;
 	padding: 0 25px 0 25px;
+}
+
+logo {
+	float: left;
+	
 }
 
 footer { 
