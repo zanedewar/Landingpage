@@ -24,6 +24,7 @@ nav {
 	float: right;
 	padding: 20px 0 20px 0;
 	display: inline;
+	top: -10px;
 }
 
 li {
@@ -34,7 +35,4 @@ li {
 
 footer { 
 	font-size: 50%;
-}
-#navDiv {
-	float: right;
 }
