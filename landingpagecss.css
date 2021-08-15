@@ -16,6 +16,8 @@ form {
 	float: right;
 }
 
+#get_connected_section img
+
 nav {
 	color: #000000;
 	list-style: none;
@@ -32,4 +34,7 @@ li {
 
 footer { 
 	font-size: 50%;
+}
+#navDiv {
+	float: right;
 }
