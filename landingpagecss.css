@@ -12,6 +12,10 @@ form {
 	float: right;
 }
 
+#get_connected {
+	float: right;
+}
+
 nav {
 	color: #000000;
 	list-style: none;
