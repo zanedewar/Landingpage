@@ -16,7 +16,9 @@ form {
 	float: right;
 }
 
-#get_connected_section img
+#get_connected_section img {
+	margin: 10px;
+}
 
 nav {
 	color: #000000;
